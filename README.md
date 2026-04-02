@@ -20,3 +20,6 @@ Sales Trend Analysis: A daily sales chart with a calculated average line ($5,056
 Heatmap Visualization: A "Sales by Day | Hour" matrix that pinpoints peak morning traffic (8:00 AM – 10:00 AM), essential for staffing optimization.
 Categorical Breakdown: Hierarchical view of sales from broad categories (Coffee, Tea, Bakery) down to specific product types like Barista Espresso and Brewed Chai Tea.
 Geospatial Insights: Comparison of three key locations—Hell’s Kitchen, Astoria, and Lower Manhattan—all showing consistent growth above 30%.
+
+Screenshot
+https://github.com/Daishik10/Coffee-sales-Dashboard/blob/main/Coffee%20Sales%20Dashboard.png
