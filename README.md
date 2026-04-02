@@ -23,4 +23,4 @@ Categorical Breakdown: Hierarchical view of sales from broad categories (Coffee,
 Geospatial Insights: Comparison of three key locations—Hell’s Kitchen, Astoria, and Lower Manhattan—all showing consistent growth above 30%.
 
 Screenshot
-https://github.com/Daishik10/Coffee-sales-Dashboard/blob/main/Coffee%20Sales%20Dashboard.png
+![Dashboard Preview](https://github.com/Daishik10/Coffee-sales-Dashboard/blob/main/Coffee%20Sales%20Dashboard.png)
