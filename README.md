@@ -1,4 +1,5 @@
 #Coffee Shop Sales Analysis | Power BI Dashboard
+
 Project Overview
 This project involves a comprehensive analysis of sales data for a coffee shop chain across multiple locations in New York City. The dashboard provides a high-level view of monthly performance, allowing stakeholders to monitor revenue trends, product popularity, and peak operational hours to drive data-informed decisions.
 
